@@ -14,6 +14,12 @@ app.get('/allData', (req, res) => {
     res.send(allServices)
 })
 
+app.get('/allData/:id', (req, res) => {
+   const id = req.params.id;
+   const item = allServices?.find(sc => sc.id == id);
+   res.send({item})
+})
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
