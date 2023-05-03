@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Mridula Islam",
-        "image": "https://example.com/mridula_islam.jpg",
+        "image": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
         "experience": 15,
         "num_recipes": 50,
         "like" : 120,
@@ -48,7 +48,7 @@
     {
         "id": 2,
         "name": "Rushdah Rozario",
-        "image": "https://example.com/rushdah_rozario.jpg",
+        "image": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/117622618_2546776152300892_4581676725904912508_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeGcE_KeBybUrUejkwEPvjLR2t0vdJQvE7fa3S90lC8Ttzg4_6ByEC5ZmKt5SB8HoxA0TseTJudJYnvvBGMm-x7z&_nc_ohc=xOLiTfgkssQAX9yBTZ2&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCn1rJUVNAfLjGk_h2S41UdPaYzyd5xMEA2oc2-IoxDTA&oe=647A3258",
         "experience": 10,
         "num_recipes": 30,
         "like" : 160,
@@ -94,7 +94,7 @@
     {
         "id": 3,
         "name": "Tommy Miah",
-        "image": "https://example.com/tommy_miah.jpg",
+        "image": "https://pbs.twimg.com/media/EXqTJ1PU0AMrJGm?format=jpg&name=large",
         "experience": 40,
         "num_recipes": 100,
         "like" : 128,
@@ -140,7 +140,7 @@
     {
         "id": 4,
         "name": "Chandrima Sinha",
-        "image": "https://example.com/chandrima_sinha.jpg",
+        "image": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
         "experience": 20,
         "num_recipes": 70,
         "like" : 90,
@@ -186,7 +186,7 @@
     {
         "id": 5,
         "name": "Chef Zakir",
-        "image": "https://example.com/chef_zakir.jpg",
+        "image": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
         "experience": 30,
         "num_recipes": 80,
         "like" : 110,
@@ -232,7 +232,7 @@
     {
         "id": 6,
         "name": "Khondaker Ashraf Hossain",
-        "image": "https://example.com/khondaker_ashraf_hossain.jpg",
+        "image": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
         "experience": 25,
         "num_recipes": 60,
         "like" : 109,
