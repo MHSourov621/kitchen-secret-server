@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "name": "Mridula Islam",
+        "image": "https://example.com/mridula_islam.jpg",
+        "experience": 15,
+        "num_recipes": 50,
+        "like" : 120,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Green chilies",
+                    "Salt"
+                ],
+                "cooking_method": "Marinate & fry fish. Cook mustard paste, chili & salt. Add fish & cook. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Green chilies"
+                ],
+                "cooking_method": "Cook prawns with turmeric & cumin powder. Add coconut milk and cook until thickened. Add green chilies & cook for few mins. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Salt"
+                ],
+                "cooking_method": "Roast eggplant. Mash with onion, green chilies, mustard oil, and salt. Serve hot.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rushdah Rozario",
+        "image": "https://example.com/rushdah_rozario.jpg",
+        "experience": 10,
+        "num_recipes": 30,
+        "like" : 160,
+        "recipes": [
+            {
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "Rice",
+                    "Yellow lentil",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Fry onion, garlic & ginger. Add rice & lentil. Add water & cook. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Chicken Rezala",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Cook onion, garlic & ginger. Add chicken and cook. Add yogurt & cook until thickened. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Shahi Tukra",
+                "ingredients": [
+                    "Bread",
+                    "Milk",
+                    "Sugar",
+                    "Saffron",
+                    "Pistachios"
+                ],
+                "cooking_method": "Fry bread. Heat milk, sugar & saffron. Add fried bread to the milk mixture. Garnish with pistachios. Serve cold.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tommy Miah",
+        "image": "https://example.com/tommy_miah.jpg",
+        "experience": 40,
+        "num_recipes": 100,
+        "like" : 128,
+        "recipes": [
+            {
+                "name": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom"
+                ],
+                "cooking_method": "Make dough with rice flour & water. Stuff with coconut & sugar. Cook in boiling water. Serve hot.",
+                "rating": 4.1
+            },
+            {
+                "name": "Dhaka Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Yogurt",
+                    "Potato",
+                    "Spices"
+                ],
+                "cooking_method": "Marinate chicken with spices & yogurt. Fry potato. Cook rice with spices. Layer rice, chicken & potato. Cook on low heat. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Fuchka",
+                "ingredients": [
+                    "Chickpeas",
+                    "Potato",
+                    "Tamarind paste",
+                    "Cumin powder",
+                    "Chili powder"
+                ],
+                "cooking_method": "Mix chickpeas, potato, tamarind paste, cumin powder, and chili powder. Serve in crispy shells.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chandrima Sinha",
+        "image": "https://example.com/chandrima_sinha.jpg",
+        "experience": 20,
+        "num_recipes": 70,
+        "like" : 90,
+        "recipes": [
+            {
+                "name": "Rasmalai",
+                "ingredients": [
+                    "Milk",
+                    "Lemon juice",
+                    "Sugar",
+                    "Cardamom",
+                    "Pistachios"
+                ],
+                "cooking_method": "Boil milk. Add lemon juice to curdle. Strain curdled milk. Knead milk solids. Make balls. Boil in sugar syrup. Garnish with cardamom & pistachios. Serve cold.",
+                "rating": 4.7
+            },
+            {
+                "name": "Bhuna Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomato"
+                ],
+                "cooking_method": "Fry onion, garlic & ginger. Add chicken and cook. Add tomato & cook until thickened. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "name": "Kala Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cooking_method": "Fry onion, garlic & ginger. Add beef and cook. Add spices & cook until thickened. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chef Zakir",
+        "image": "https://example.com/chef_zakir.jpg",
+        "experience": 30,
+        "num_recipes": 80,
+        "like" : 110,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Green chilies",
+                    "Salt"
+                ],
+                "cooking_method": "Marinate & fry fish. Cook mustard paste, chili & salt. Add fish & cook. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Green chilies"
+                ],
+                "cooking_method": "Cook prawns with turmeric & cumin powder. Add coconut milk and cook until thickened. Add green chilies & cook for few mins. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Salt"
+                ],
+                "cooking_method": "Roast eggplant. Mash with onion, green chilies, mustard oil, and salt. Serve hot.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Khondaker Ashraf Hossain",
+        "image": "https://example.com/khondaker_ashraf_hossain.jpg",
+        "experience": 25,
+        "num_recipes": 60,
+        "like" : 109,
+        "recipes": [
+            {
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "Rice",
+                    "Yellow lentil",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Fry onion, garlic & ginger. Add rice & lentil. Add water & cook. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Chicken Rezala",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Cook onion, garlic & ginger. Add chicken and cook. Add yogurt & cook until thickened. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Shahi Tukra",
+                "ingredients": [
+                    "Bread",
+                    "Milk",
+                    "Sugar",
+                    "Saffron",
+                    "Pistachios"
+                ],
+                "cooking_method": "Fry bread. Heat milk, sugar & saffron. Add fried bread to the milk mixture. Garnish with pistachios. Serve cold.",
+                "rating": 4.9
+            }
+        ]
+    }
+]
