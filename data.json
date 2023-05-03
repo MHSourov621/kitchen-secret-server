@@ -3,9 +3,10 @@
         "id": 1,
         "name": "Mridula Islam",
         "image": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
+        "chefBio": "Mridula Islam is a renowned Bangladeshi chef, food blogger, and cookbook author. She is known for her traditional Bangladeshi recipes and modern twists on classic dishes.",
         "experience": 15,
         "num_recipes": 50,
-        "like" : 120,
+        "like": 120,
         "recipes": [
             {
                 "name": "Shorshe Ilish",
@@ -49,9 +50,10 @@
         "id": 2,
         "name": "Rushdah Rozario",
         "image": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/117622618_2546776152300892_4581676725904912508_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeGcE_KeBybUrUejkwEPvjLR2t0vdJQvE7fa3S90lC8Ttzg4_6ByEC5ZmKt5SB8HoxA0TseTJudJYnvvBGMm-x7z&_nc_ohc=xOLiTfgkssQAX9yBTZ2&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCn1rJUVNAfLjGk_h2S41UdPaYzyd5xMEA2oc2-IoxDTA&oe=647A3258",
+        "chefBio": "Rushdah Rozario is a well-known Bangladeshi artist, photographer, and chef. She is the founder of the renowned Yellow Brick Road restaurant in Dhaka, which features a fusion of Bangladeshi and Western cuisines.",
         "experience": 10,
         "num_recipes": 30,
-        "like" : 160,
+        "like": 160,
         "recipes": [
             {
                 "name": "Bhuna Khichuri",
@@ -95,9 +97,10 @@
         "id": 3,
         "name": "Tommy Miah",
         "image": "https://pbs.twimg.com/media/EXqTJ1PU0AMrJGm?format=jpg&name=large",
+        "chefBio": "Tommy Miah is a Bangladeshi-born British chef, restaurateur, and author. He is the founder of the award-winning Raj Restaurant in London and has written several cookbooks on Bangladeshi cuisine.",
         "experience": 40,
         "num_recipes": 100,
-        "like" : 128,
+        "like": 128,
         "recipes": [
             {
                 "name": "Pitha",
@@ -141,9 +144,10 @@
         "id": 4,
         "name": "Chandrima Sinha",
         "image": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
+        "chefBio": "Chandrima Sinha is a Bangladeshi chef and television personality. He is the host of the popular cooking show 'Ranna Banna' and has published several cookbooks on Bangladeshi cuisine.",
         "experience": 20,
         "num_recipes": 70,
-        "like" : 90,
+        "like": 90,
         "recipes": [
             {
                 "name": "Rasmalai",
@@ -187,9 +191,10 @@
         "id": 5,
         "name": "Chef Zakir",
         "image": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chefBio": "Chef Zakir is a British chef of Mauritian and Bangladeshi descent. She is the winner of the 2012 season of MasterChef UK and has since released several cookbooks featuring her fusion of Mauritian and Bangladeshi cuisines.",
         "experience": 30,
         "num_recipes": 80,
-        "like" : 110,
+        "like": 110,
         "recipes": [
             {
                 "name": "Shorshe Ilish",
@@ -233,9 +238,10 @@
         "id": 6,
         "name": "Khondaker Ashraf Hossain",
         "image": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
+        "chefBio": "Khondaker Ashraf Hossain is a Vietnamese-American chef and television personality, who was born to a Chinese father and a Vietnamese mother in New Zealand. He is the host of several cooking shows, including World Cafe Asia and Bobby Chinn Cooks Asia, and has featured Bangladeshi cuisine in his culinary travels.",
         "experience": 25,
         "num_recipes": 60,
-        "like" : 109,
+        "like": 109,
         "recipes": [
             {
                 "name": "Bhuna Khichuri",
